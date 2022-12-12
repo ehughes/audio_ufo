@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [AudioUFO.PcbDoc]
+   Generated File[AUDIO_UFO-[A].TXT]
+   Generated File[AUDIO_UFO-[A].LDP]
+   Generated File[AUDIO_UFO-[A].DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:47:13 AM On 2/22/2021

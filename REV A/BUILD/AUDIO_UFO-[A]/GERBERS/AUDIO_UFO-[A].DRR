@@ -1,0 +1,32 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: AudioUFO.PcbDoc   2/22/2021  8:47:13 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AUDIO_UFO-[A].TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.508mm)                                           Round             200       PTH        0.00inch (0.00mm)
+T2      28mil (0.711mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T3      35mil (0.89mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T4      38mil (0.965mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T6      47mil (1.194mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T7      47mil (1.2mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T8      50mil (1.27mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T9      59mil (1.5mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T10     63mil (1.6mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T11     67mil (1.7mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T12     75mil (1.905mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T13     79mil (2.01mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T14     83mil (2.1mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T15     102mil (2.6mm)                                            Round             6         PTH        0.00inch (0.00mm)
+T16     118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T17     148mil (3.759mm)                                          Round             8         PTH        0.00inch (0.00mm)
+T18     65mil (1.651mm)                                           Round             3         NPTH       0.00inch (0.00mm)
+T19     80mil (2.032mm)                                           Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              291
+
+Total Processing Time (hh:mm:ss) : 00:00:00
